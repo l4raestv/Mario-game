@@ -1,0 +1,37 @@
+#titulo{
+    width: 100%;
+    padding: 0;
+    position: fixed;
+    top: 0;
+}
+#titulo h2{
+    display: inline;
+    line-height: 1.5;
+    
+}
+#titulo button{
+    float: right;
+    height: 100%;
+}
+img{
+    width: 100% ;
+}
+#bt{
+    font-weight: 600;
+    font-size: 20px;
+}
+.img-responsive{
+    width: 40%;
+    display: inline-block;
+}
+.modal-dialog{
+    width: 85%;
+}
+#vc{
+    background: url("game_console.png");
+    background-position: center ;
+    background-size: cover;
+    width: 45% ;
+    margin-bottom: 20px;
+    padding-top: 10px
+}
